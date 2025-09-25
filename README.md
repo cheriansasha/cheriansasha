@@ -1,5 +1,5 @@
 # 💫 About Me:
-:microscope: I'm currently working reviewing technical programming concepts in Python and LeetCode problems (gotta prep for those tech interviews :) ). <br>:seedling: I have a variety of tech interests that I want to pursue in my next coding project. Some of these interests are cloud computing, database management systems, and creating chatbots + other AI-powered projects! <br>:zap: I have played badminton for 8 years and have competed in 20+ tournaments during my time in college!
+:microscope: I'm currently working on reviewing technical programming concepts & LeetCode problems in Python. <br>:seedling: I have a variety of tech interests that I want to pursue in my next coding project. Some of these interests are cloud computing, database management systems, and creating chatbots + other AI-powered projects! <br>:zap: Fun fact - I have played badminton for 8 years and have competed in 20+ tournaments during my time in college!
 
 
 ## 🌐 Socials:
