@@ -1,5 +1,5 @@
 # 💫 About Me:
-:microscope: I'm currently working with various AWS services to gain hands-on exposure & LeetCode problems in Python & SQL. <br>:seedling: I have a variety of tech interests that I want to pursue in my next coding project. Some of these interests are AWS, database management systems, and creating chatbots + other AI-powered projects! <br>:zap: Fun fact - I have played badminton for 8 years and have competed in 20+ tournaments during my time in college!
+:microscope: I'm currently working with various AWS services to gain hands-on exposure & LeetCode problems in Python, Java, & SQL. <br>:seedling: I have a variety of tech interests that I want to pursue in my next coding project. Some of these interests are AWS, database management systems, and creating chatbots + other AI-powered projects! <br>:zap: Fun fact - I have played badminton for 8 years and have competed in 20+ tournaments during my time in college!
 
 
 ## 🌐 Socials:
